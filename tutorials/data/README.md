@@ -1,4 +1,4 @@
-## File: marijuana_arrests_and_citations_2017_thru_2022.csv
+## marijuana_arrests_and_citations_2017_thru_2022.csv
 
 #### Pittsburgh Police Arrest Data
 Data</br>
